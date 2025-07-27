@@ -1,4 +1,4 @@
-# Week 02  Linux Fundamentals II + Bash Power Tools
+# Week 02   Linux Fundamentals II + Bash Power Tools
 WEEK 02 — Linux Fundamentals II + Bash Power Tools
 Mon (2h)
 
